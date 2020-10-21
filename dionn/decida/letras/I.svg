@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-
-<svg version="1.0" 
-	id="glyph_I" 
-	xmlns="http://www.w3.org/2000/svg" 
-	xmlns:xlink="http://www.w3.org/1999/xlink"
-	x="0px"
-	y="0px"
-	width="27px" 
-	height="89.599999999999994px">
-<g id="I">
-<path style="fill:#000000;stroke-width:0px" d="M25.1 28.5 C25.1 26.15 25.1 21.45 25.1 19.1 C19.35 19.1 7.85 19.1 2.1 19.1 C2.1 21.45 2.1 26.15 2.1 28.5 C3.6 28.5 6.6 28.5 8.1 28.5 C8.1 41.45 8.1 67.35 8.1 80.3 C6.6 80.3 3.6 80.3 2.1 80.3 C2.1 82.65 2.1 87.35 2.1 89.7 C7.85 89.7 19.35 89.7 25.1 89.7 C25.1 87.35 25.1 82.65 25.1 80.3 C23.625 80.3 20.675 80.3 19.2 80.3 C19.2 67.35 19.2 41.45 19.2 28.5 C20.675 28.5 23.625 28.5 25.1 28.5 z" id="path_I_0" />
-</g>
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 -200 271 1000">
+<path d="m 251,188 h -59 v 518 h 59 v 94 H 21 V 706 H 81 V 188 H 21 V 94 h 230 z"/>
 </svg>
