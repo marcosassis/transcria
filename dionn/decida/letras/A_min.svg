@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 562 800">
+<!-- <path d="m 373,94 134,612 h 55 v 94 H 405 L 361,575 H 200 L 154,800 H 0 V 706 H 56 L 204,94 Z m -89,73 -66,316 h 126 z"/> -->
+<!-- <path d="M373,94L507,706H562V800H405L361,575H200L154,800H0V706H56L204,94ZM284,167L218,483H344Z"/> -->
+<path d="m373,94l134,612h55v94h-157l-44,-225h-161l-46,225h-154v-94h56l148,-612zm-89,73l-66,316h126z"/>
+</svg>

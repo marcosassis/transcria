@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 -200 6479 1000"
+   id="svg14"
+   sodipodi:docname="poema.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:title />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview16"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="0.026466028"
+     inkscape:cx="8036.6664"
+     inkscape:cy="-4538.6649"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <g
+     id="DECIDA">
+    <path
+       id="D"
+       d="M 21,188 V 94 h 329 c 33,0 78,-1 114,27 52,41 52,105 52,157 v 347 c 0,75 -13,114 -47,142 -39,33 -86,33 -138,33 H 21 V 706 H 80 V 188 Z m 170,0 v 518 h 135 c 74,1 75,-21 77,-92 V 286 c -1,-76 -2,-96 -79,-98 z" />
+    <path
+       id="E"
+       transform="translate(583)"
+       d="M 386,301 V 188 H 192 v 205 h 209 v 95 H 192 V 706 H 393 V 576 H 496 V 800 H 22 V 706 H 80 V 188 H 22 V 94 h 468 v 207 z" />
+    <path
+       id="C"
+       transform="translate(1125)"
+       d="M 204,94 H 460 V 302 H 351 V 188 H 237 c -30,1 -45,1 -59,13 -16,14 -16,26 -18,76 v 340 c 0,6 1,35 1,42 4,42 29,47 74,47 H 358 V 580 H 466 V 800 H 204 C 156,799 99,797 64,732 46,697 46,660 46,625 V 287 C 46,231 46,167 97,124 130,97 163,96 204,94 Z" />
+    <path
+       id="I"
+       transform="translate(1667)"
+       d="m 251,188 h -59 v 518 h 59 v 94 H 21 V 706 H 81 V 188 H 21 V 94 h 230 z" />
+    <use
+       xlink:href="#D"
+       transform="translate(1980)"
+       id="use6" />
+    <path
+       id="A"
+       transform="translate(2542)"
+       d="m 373,94 134,612 h 55 v 94 H 405 L 361,575 H 200 L 154,800 H 0 V 706 H 56 L 204,94 Z m -89,73 -66,316 h 126 z" />
+  </g>
+  <use
+     xlink:href="#DECIDA"
+     transform="translate(3375)"
+     id="use10" />
+  <g
+     id="g107"
+     transform="translate(6750)">
+    <path
+       inkscape:connector-curvature="0"
+       d="M 283,800 Q 317,771 366,741.5 415,712 480,681 v 72 q -68,58 -124,123 -56,65 -98,147 H 222 Q 180,941 124,876 68,811 0,753 v -72 q 65,31 114,60.5 49,29.5 83,58.5 v -989 h 86 z"
+       id="seta" />
+  </g>
+  <rect
+     style="opacity:0.88999999;fill:#fe6363;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect36"
+     width="292"
+     height="706"
+     x="3104"
+     y="94" />
+  <rect
+     y="94"
+     x="6479"
+     height="706"
+     width="271"
+     id="rect38"
+     style="opacity:0.88999999;fill:#fe6363;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
+  <rect
+     style="opacity:0.88999999;fill:#fe6363;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect40"
+     width="271"
+     height="1706"
+     x="7230"
+     y="94" />
+  <use
+     id="use42"
+     transform="translate(7480)"
+     xlink:href="#DECIDA"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <rect
+     y="94"
+     x="8064"
+     height="1706"
+     width="21"
+     id="rect31"
+     style="opacity:0.88999999;fill:#fe6363;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
+  <g
+     id="g39">
+    <use
+       id="use12"
+       transform="translate(0,1000)"
+       xlink:href="#DECIDA" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#DECIDA"
+       transform="translate(8064,1000)"
+       id="use33" />
+  </g>
+  <rect
+     y="2094"
+     x="7793"
+     height="706"
+     width="292"
+     id="rect47"
+     style="opacity:0.88999999;fill:#fe6363;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
+  <g
+     id="g56">
+    <use
+       xlink:href="#DECIDA"
+       transform="translate(0,2000)"
+       id="use41"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       id="use43"
+       transform="translate(8064,2000)"
+       xlink:href="#DECIDA"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#DECIDA"
+       transform="translate(4689,2000)"
+       id="use49" />
+  </g>
+  <use
+     id="use101"
+     transform="translate(4105,7000)"
+     xlink:href="#DECIDA"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <g
+     id="g62"
+     transform="translate(0,2000)">
+    <use
+       xlink:href="#DECIDA"
+       transform="translate(0,1000)"
+       id="use58"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       id="use60"
+       transform="translate(8064,1000)"
+       xlink:href="#DECIDA"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     id="g77">
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       id="use64"
+       transform="translate(0,4000)"
+       xlink:href="#DECIDA" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#DECIDA"
+       transform="translate(8064,4000)"
+       id="use66" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#DECIDA"
+       transform="translate(3375,4000)"
+       id="use70" />
+  </g>
+  <g
+     id="g85"
+     transform="translate(0,1000)">
+    <use
+       xlink:href="#DECIDA"
+       transform="translate(0,4000)"
+       id="use79"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       id="use81"
+       transform="translate(8064,4000)"
+       xlink:href="#DECIDA"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       id="use83"
+       transform="translate(3375,4000)"
+       xlink:href="#DECIDA"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     transform="translate(0,5000)"
+     id="g91">
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       id="use87"
+       transform="translate(0,1000)"
+       xlink:href="#DECIDA" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#DECIDA"
+       transform="translate(8064,1000)"
+       id="use89" />
+  </g>
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     id="use93"
+     transform="translate(0,7000)"
+     xlink:href="#DECIDA" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     xlink:href="#DECIDA"
+     transform="translate(7480,7000)"
+     id="use95" />
+  <use
+     xlink:href="#seta"
+     transform="translate(3375,7000)"
+     id="use104"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <rect
+     style="opacity:0.88999999;fill:#fe6363;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect109"
+     width="271"
+     height="706"
+     x="3104"
+     y="7094" />
+  <rect
+     y="7094"
+     x="3855"
+     height="706"
+     width="271"
+     id="rect115"
+     style="opacity:0.88999999;fill:#fe6363;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
+</svg>

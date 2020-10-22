@@ -2,9 +2,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 -200 3104 1000">
 <path id="D" d="M 21,188 V 94 h 329 c 33,0 78,-1 114,27 52,41 52,105 52,157 v 347 c 0,75 -13,114 -47,142 -39,33 -86,33 -138,33 H 21 V 706 H 80 V 188 Z m 170,0 v 518 h 135 c 74,1 75,-21 77,-92 V 286 c -1,-76 -2,-96 -79,-98 z"/>
-<path id="E" transform="translate(583,0)" d="M 386,301 V 188 H 192 v 205 h 209 v 95 H 192 V 706 H 393 V 576 H 496 V 800 H 22 V 706 H 80 V 188 H 22 V 94 h 468 v 207 z"/>
-<path id="C" transform="translate(1125,0)" d="M 204,94 H 460 V 302 H 351 V 188 H 237 c -30,1 -45,1 -59,13 -16,14 -16,26 -18,76 v 340 c 0,6 1,35 1,42 4,42 29,47 74,47 H 358 V 580 H 466 V 800 H 204 C 156,799 99,797 64,732 46,697 46,660 46,625 V 287 C 46,231 46,167 97,124 130,97 163,96 204,94 Z"/>
-<path id="I" transform="translate(1667,0)" d="m 251,188 h -59 v 518 h 59 v 94 H 21 V 706 H 81 V 188 H 21 V 94 h 230 z"/>
-<use xlink:href="#D" transform="translate(1980,0)"/>
-<path id="A" transform="translate(2542,0)" d="m 373,94 134,612 h 55 v 94 H 405 L 361,575 H 200 L 154,800 H 0 V 706 H 56 L 204,94 Z m -89,73 -66,316 h 126 z"/>
+<path id="E" transform="translate(583)" d="M 386,301 V 188 H 192 v 205 h 209 v 95 H 192 V 706 H 393 V 576 H 496 V 800 H 22 V 706 H 80 V 188 H 22 V 94 h 468 v 207 z"/>
+<path id="C" transform="translate(1125)" d="M 204,94 H 460 V 302 H 351 V 188 H 237 c -30,1 -45,1 -59,13 -16,14 -16,26 -18,76 v 340 c 0,6 1,35 1,42 4,42 29,47 74,47 H 358 V 580 H 466 V 800 H 204 C 156,799 99,797 64,732 46,697 46,660 46,625 V 287 C 46,231 46,167 97,124 130,97 163,96 204,94 Z"/>
+<path id="I" transform="translate(1667)" d="m 251,188 h -59 v 518 h 59 v 94 H 21 V 706 H 81 V 188 H 21 V 94 h 230 z"/>
+<use xlink:href="#D" transform="translate(1980)"/>
+<path id="A" transform="translate(2542)" d="m 373,94 134,612 h 55 v 94 H 405 L 361,575 H 200 L 154,800 H 0 V 706 H 56 L 204,94 Z m -89,73 -66,316 h 126 z"/>
 </svg>
