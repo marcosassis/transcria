@@ -1,43 +1,38 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-1000 -1000 13000 10000">
+<defs>
+<path id="seta" d="M283,800q34,-29,83,-58.5q49,-29.5,114,-60.5v72q-68,58,-124,123q-56,65,-98,147h-36q-42,-82,-98,-147q-56,-65,-124,-123v-72q65,31,114,60.5q49,29.5,83,58.5v-989h86z"/>
 <g id="DECIDA">
-<path id="D" d="M 21,188 V 94 h 329 c 33,0 78,-1 114,27 52,41 52,105 52,157 v 347 c 0,75 -13,114 -47,142 -39,33 -86,33 -138,33 H 21 V 706 H 80 V 188 Z m 170,0 v 518 h 135 c 74,1 75,-21 77,-92 V 286 c -1,-76 -2,-96 -79,-98 z"/>
-<path id="E" transform="translate(583,0)" d="M 386,301 V 188 H 192 v 205 h 209 v 95 H 192 V 706 H 393 V 576 H 496 V 800 H 22 V 706 H 80 V 188 H 22 V 94 h 468 v 207 z"/>
-<path id="C" transform="translate(1125,0)" d="M 204,94 H 460 V 302 H 351 V 188 H 237 c -30,1 -45,1 -59,13 -16,14 -16,26 -18,76 v 340 c 0,6 1,35 1,42 4,42 29,47 74,47 H 358 V 580 H 466 V 800 H 204 C 156,799 99,797 64,732 46,697 46,660 46,625 V 287 C 46,231 46,167 97,124 130,97 163,96 204,94 Z"/>
-<path id="I" transform="translate(1667,0)" d="m 251,188 h -59 v 518 h 59 v 94 H 21 V 706 H 81 V 188 H 21 V 94 h 230 z"/>
-<use xlink:href="#D" transform="translate(1980,0)"/>
-<path id="A" transform="translate(2542,0)" d="m 373,94 134,612 h 55 v 94 H 405 L 361,575 H 200 L 154,800 H 0 V 706 H 56 L 204,94 Z m -89,73 -66,316 h 126 z"/>
+<path id="D" d="M21,188v-94h329c33,0,78,-1,114,27c52,41,52,105,52,157v347c0,75,-13,114,-47,142c-39,33,-86,33,-138,33h-310v-94h59v-518zm170,0v518h135c74,1,75,-21,77,-92v-328c-1,-76,-2,-96,-79,-98z"/>
+<path id="E" d="M969,301v-113h-194v205h209v95h-209v218h201v-130h103v224h-474v-94h58v-518h-58v-94h468v207z"/>
+<path id="C" d="M1329,94h256v208h-109v-114h-114c-30,1,-45,1,-59,13c-16,14,-16,26,-18,76v340c0,6,1,35,1,42c4,42,29,47,74,47h123v-126h108v220h-262c-48,-1,-105,-3,-140,-68c-18,-35,-18,-72,-18,-107v-338c0,-56,0,-120,51,-163c33,-27,66,-28,107,-30z"/>
+<path id="I" d="M1918,188h-59v518h59v94h-230v-94h60v-518h-60v-94h230z"/>
+<use xlink:href="#D" x="1980"/>
+<path id="A" d="M2915,94l134,612h55v94h-157l-44,-225h-161l-46,225h-154v-94h56l148,-612zm-89,73l-66,316h126z"/>
 </g>
-
-<use xlink:href="#DECIDA" transform="translate(3375)"/>
-<g transform="translate(6750)">
-<path id="seta" d="M 283,800 Q 317,771 366,741.5 415,712 480,681 v 72 q -68,58 -124,123 -56,65 -98,147 H 222 Q 180,941 124,876 68,811 0,753 v -72 q 65,31 114,60.5 49,29.5 83,58.5 v -989 h 86 z"/>
-</g>
-<use xlink:href="#DECIDA" transform="translate(7480)"/>
-
-<g id="L1" transform="translate(0,1000)">
+</defs>
 <use xlink:href="#DECIDA"/>
-<use xlink:href="#DECIDA" transform="translate(8064)"/>
-</g>
-
-<use xlink:href="#L1" transform="translate(0,1000)"/>
-<use xlink:href="#DECIDA" transform="translate(4689,2000)"/>
-
-<use xlink:href="#L1" transform="translate(0,2000)"/>
-
-<g id="L4">
-<use xlink:href="#L1" transform="translate(0,3000)"/>
-<use xlink:href="#DECIDA" transform="translate(3375,4000)"/>
-</g>
-
-<use xlink:href="#L4" transform="translate(0,1000)"/>
-
-<use xlink:href="#L1" transform="translate(0,5000)"/>
-
-<use xlink:href="#DECIDA" transform="translate(0,7000)"/>
-<use xlink:href="#seta" transform="translate(3375,7000)"/>
-<use xlink:href="#DECIDA" transform="translate(4105,7000)"/>
-<use xlink:href="#DECIDA" transform="translate(7480,7000)"/>
-
+<use xlink:href="#DECIDA" x="3375"/>
+<use xlink:href="#seta" x="6750"/>
+<use xlink:href="#DECIDA" x="7480"/>
+<use xlink:href="#DECIDA" y="1000"/>
+<use xlink:href="#DECIDA" y="1000" x="8064"/>
+<use xlink:href="#DECIDA" y="2000"/>
+<use xlink:href="#DECIDA" y="2000" x="4689"/>
+<use xlink:href="#DECIDA" y="2000" x="8064"/>
+<use xlink:href="#DECIDA" y="3000"/>
+<use xlink:href="#DECIDA" y="3000" x="8064"/>
+<use xlink:href="#DECIDA" y="4000"/>
+<use xlink:href="#DECIDA" y="4000" x="3375"/>
+<use xlink:href="#DECIDA" y="4000" x="8064"/>
+<use xlink:href="#DECIDA" y="5000"/>
+<use xlink:href="#DECIDA" y="5000" x="3375"/>
+<use xlink:href="#DECIDA" y="5000" x="8064"/>
+<use xlink:href="#DECIDA" y="6000"/>
+<use xlink:href="#DECIDA" y="6000" x="8064"/>
+<use xlink:href="#DECIDA" y="7000"/>
+<use xlink:href="#seta" y="7000" x="3375"/>
+<use xlink:href="#DECIDA" y="7000" x="4105"/>
+<use xlink:href="#DECIDA" y="7000" x="7480"/>
 </svg>
